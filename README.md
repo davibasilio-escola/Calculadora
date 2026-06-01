@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Trabalho de calculadora </h1>
-  <h3 align="center">Feito com Pedro Zanin, João, Victor, Guilherme SC, Eduardo do 1°A</h3>
+  <h3 align="center">Feito com Pedro Zanin, Davi, Victor, Guilherme SC, Eduardo do 1°A</h3>
 </div>
 
 <p align="center">
